@@ -140,7 +140,6 @@ this.remove = function (word) {         //delete operation
 var text=[];
 function getData(input)
 {
- 
   var X = input.files[0];
   console.log(X);
   var reader=new FileReader;
